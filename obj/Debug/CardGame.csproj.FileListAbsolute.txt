@@ -1,0 +1,24 @@
+C:\Users\אקרמן\Documents\BJ game\Backup\bin\Debug\CardGame.exe.config
+C:\Users\אקרמן\Documents\BJ game\Backup\bin\Debug\CardGame.exe
+C:\Users\אקרמן\Documents\BJ game\Backup\bin\Debug\CardGame.pdb
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\BlackJack.OptionsForm.resources
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\CardGame.exe
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\CardGame.pdb
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\BlackJack.BlackJackForm.resources
+C:\Users\אקרמן\Documents\BJ game\Backup\obj\Debug\BlackJack.StartForm.resources
+D:\BJ_208425900\Backup\bin\Debug\CardGame.exe.config
+D:\BJ_208425900\Backup\bin\Debug\CardGame.exe
+D:\BJ_208425900\Backup\bin\Debug\CardGame.pdb
+D:\BJ_208425900\Backup\obj\Debug\CardGame.csprojAssemblyReference.cache
+D:\BJ_208425900\Backup\obj\Debug\BlackJack.BlackJackForm.resources
+D:\BJ_208425900\Backup\obj\Debug\BlackJack.OptionsForm.resources
+D:\BJ_208425900\Backup\obj\Debug\BlackJack.StartForm.resources
+D:\BJ_208425900\Backup\obj\Debug\BlackJack.Properties.Resources.resources
+D:\BJ_208425900\Backup\obj\Debug\CardGame.csproj.GenerateResource.cache
+D:\BJ_208425900\Backup\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+D:\BJ_208425900\Backup\obj\Debug\CardGame.exe
+D:\BJ_208425900\Backup\obj\Debug\CardGame.pdb
